@@ -6,6 +6,8 @@ GDQTE Is a set of Nodes created by me that adds Quick Time Events, for now there
 [Documentation can be found here](https://docs.google.com/document/d/1Z6tHQfV-spXNiRd0tp-Mo6OW_zMESsUZEM6arYg1os8/edit?usp=sharing)
 
 # License
+    This Addon uses the MIT license
+
     Copyright (c) 2014-present Godot Engine contributors.
   Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
