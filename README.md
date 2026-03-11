@@ -1,6 +1,5 @@
 # Godot-Quick-Time-Events
-GDQTE Is a set of Nodes created by me that adds Quick Time Events, for now it's only 2 main types.
-There are 2 main Nodes, MashQTE and CountdownQTE
+GDQTE Is a set of Nodes created by me that adds Quick Time Events, for now there are 2 Main nodes which are MashQTE and CountdownQTE
 
 # Documentation
 
