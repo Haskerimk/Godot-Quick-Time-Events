@@ -13,7 +13,7 @@ GD-QTE is an Addon which adds Quick Time Events to your Godot Project! With Upda
 
 # Documentation and usage
 
-[Documentation can be found here](https://github.com/Haskerimk/Godot-Quick-Time-Events/blob/main/Manual/main.md)
+[Documentation can be found here](https://github.com/Haskerimk/Godot-Quick-Time-Events/tree/main/Manual)
 
 # License
     This Addon uses the MIT license
