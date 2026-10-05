@@ -1,4 +1,4 @@
-# Godot-Quick-Time-Events
+# Godot-Quick-Time-Events <img src="RepoIcons/QTE.webp" width="55" height="55">
 GD-QTE is an Addon which adds Quick Time Events to your Godot Project! With Update 2.0 you are given 5 QTE Nodes to use, which are:
 
 * CountdownQTE <img src="RepoIcons/CountdownQTE.webp" width="15" height="15">
