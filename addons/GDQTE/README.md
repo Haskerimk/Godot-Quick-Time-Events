@@ -1,11 +1,11 @@
 # Godot-Quick-Time-Events
 GD-QTE is an Addon which adds Quick Time Events to your Godot Project! With Update 2.0 you are given 5 QTE Nodes to use, which are:
 
-* CountdownQTE <img src="RepoIcons/CountdownQTE.webp" width="15" height="15">
-* MashQTE <img src="RepoIcons/MashQTE.webp" width="15" height="15">
-* HoldQTE <img src="RepoIcons/HoldQTE.webp" width="15" height="15">
-* TimedQTE <img src="RepoIcons/TimedQTE.webp" width="15" height="15">
-* SequenceQTE <img src="RepoIcons/SequenceQTE.webp" width="15" height="15">
+* CountdownQTE
+* MashQTE
+* HoldQTE
+* TimedQTE
+* SequenceQTE
 
 # Update V2.0
 
@@ -13,7 +13,7 @@ GD-QTE is an Addon which adds Quick Time Events to your Godot Project! With Upda
 
 # Documentation and usage
 
-[Documentation can be found here](https://docs.google.com/document/d/1Z6tHQfV-spXNiRd0tp-Mo6OW_zMESsUZEM6arYg1os8/edit?usp=sharing)
+[Documentation can be found here](https://github.com/Haskerimk/Godot-Quick-Time-Events/blob/main/Manual/main.md)
 
 # License
     This Addon uses the MIT license
