@@ -1,5 +1,5 @@
 @abstract
-@icon("res://QTEV2/Icons/QTE.webp")
+@icon("res://addons/GD-QTE/Icons/QTE.webp")
 extends TextureProgressBar
 class_name QTE
 
